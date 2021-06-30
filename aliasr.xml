@@ -1,0 +1,7 @@
+<configuration name="aliasr.conf" description="mod_asr_asr configuration">
+    <settings>
+        <param name="appkey" value=""/>
+        <param name="akid" value=""/>
+        <param name="aksecret" value=""/>
+    </settings>
+</configuration>
